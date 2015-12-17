@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[PRIME-FIT underground]]></title>
         <description><![CDATA[PRIME-FIT underground]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prime-fit-underground/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 16:36:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 16:37:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prime-fit-underground/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>PRIME-FIT undergound ist online!!</p>]]></description>
+            <link>https://thegrid.ai/prime-fit-underground/c02809f8-d4fd-4916-b7f9-0df8f5cf58e2/index.html</link>
+            <guid isPermaLink="false">c02809f8-d4fd-4916-b7f9-0df8f5cf58e2</guid>
+            <pubDate>Thu, 17 Dec 2015 16:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Create an account or log into Facebook&period; Connect with friends&comma; family and other people you know&period; Share photos and videos&comma; send messages and get updates&period;" src="https://www.facebook.com/images/fb_icon_325x325.png">]]></description>
