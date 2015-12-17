@@ -1,7 +1,7 @@
 name: PRIME-FIT underground
 favicon: null
-layout_spectrum: 0.68087522033602
-typography_spectrum: 0.48558938945643604
+layout_spectrum: 0.98736
+typography_spectrum: 0.75632
 title: PRIME-FIT underground
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#00adee'
+    - '#fefefe'
+    - '#2e3191'
+    - '#000000'
+    - '#7c7f82'
   brandStrength: 0.20130484527908266
   lightness: 0.379665739601478
   saturation: 0.4723983926232904
