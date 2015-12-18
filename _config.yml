@@ -6,10 +6,10 @@ color:
     - '#2e3191'
     - '#000000'
     - '#7c7f82'
-  brandStrength: 0.405462
-  lightness: 0.5
-  rhythmicContrast: 0.25
-  saturation: 0.5
+  brandStrength: 0.420168
+  lightness: 0.161764
+  rhythmicContrast: 0.965336
+  saturation: 0.720588
 cta: {}
 layout_spectrum: 0.753151
 name: PRIME-FIT underground
