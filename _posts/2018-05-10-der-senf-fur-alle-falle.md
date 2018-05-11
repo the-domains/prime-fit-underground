@@ -1,13 +1,12 @@
 ---
 title: ''
-datePublished: '2018-05-11T20:38:59.008Z'
-dateModified: '2018-05-11T20:38:55.906Z'
-publisher:
-  name: 'Rene Becker '
+datePublished: '2018-05-11T20:51:53.249Z'
+dateModified: '2018-05-11T20:51:49.440Z'
+publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: 'Leute! Hier ist er: Ein Überblick meiner Ernährung. '
+description: 'Leute! Hier ist er: Ein Überblick meiner Ernährung.'
 via: {}
 starred: false
 datePublishedOriginal: '2018-05-10T18:17:36.020Z'
@@ -17,8 +16,10 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-Leute! Hier ist er: Ein Überblick meiner Ernährung. 
-> 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c0628df-a55d-422a-818c-6e91aae0a028.jpg)
+
+Leute! Hier ist er: Ein Überblick meiner Ernährung.
+
 > Ohne Mampf kein Kampf 
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac965487-a307-4db4-8cd9-251904acf6b1.jpg" /><h1>Vollkorn Nudeln</h1><p>Mit Thunfisch und Tomaten aus der Dose</p></article>
