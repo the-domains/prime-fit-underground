@@ -1,18 +1,44 @@
+name: PRIME-FIT underground
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d650e0c-1700-48af-a8ad-f500010d1101.jpg
+layout_spectrum: 0.6201766313429885
+typography_spectrum: 0.7817711271204534
+cta: {}
 analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
-    - '#00adee'
-    - '#fefefe'
-    - '#2e3191'
-    - '#000000'
-    - '#7c7f82'
-  brandStrength: 0.420168
-  lightness: 0.161764
-  rhythmicContrast: 0.965336
-  saturation: 0.720588
-cta: {}
-layout_spectrum: 0.498829
-name: PRIME-FIT underground
-opengraph: {}
-purpose: []
-typography_spectrum: 0.579625
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  brandStrength: 0.38903851364158315
+  lightness: 0.47193497101029397
+  saturation: 0.5362874222478581
+  rhythmicContrast: 0.6353305030145711
+purpose:
+  - type: contact
+    label: "\uD83D\uDCE7 PF Underground "
+    url: 'mailto:rbprivattraining@gmail.com'
+  - type: contact
+    label: "\uD83D\uDCF1 Coach Rene"
+    url: 'tel:+4915141268672'
+title: die Top Seite für Insider
+description: 'Medical Fitness, Ernährung, BB'
+author:
+  name: René Becker
+  email: rbprivattraining@gmail.com
+content_rating:
+  adult: false
+navigation:
+  - name: Deutsche NAC Magdeburg 2015
+    id: 303b6331-e508-43b6-8491-697fc35e60e9
+    type: content
+  - name: "Ohne Mampf kein Kampf\uD83D\uDE02"
+    id: 98f330b6-fc74-4c85-9681-33b4ef013718
+    type: content
+content: []
+github: true
