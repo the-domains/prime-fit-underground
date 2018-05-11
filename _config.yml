@@ -23,6 +23,9 @@ purpose:
   - type: contact
     label: "\uD83D\uDCF1 Coach Rene"
     url: 'tel:+4915141268672'
+  - type: contact
+    label: Mail an Rene
+    url: 'mailto:rbprivattraining@gmail.com'
 title: die Top Seite für Insider
 description: 'Medical Fitness, Ernährung, BB'
 author:
