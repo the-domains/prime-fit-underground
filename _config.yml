@@ -1,24 +1,26 @@
+layout_spectrum: 0.07147434762715925
+typography_spectrum: 0.5990855768014962
+color:
+  brandColors:
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  brandStrength: 0.08337466728495489
+  lightness: 0.28618624528362835
+  saturation: 0.24913162728411947
+  rhythmicContrast: 0.9059370568764424
+coverPrefs:
+  filter: false
 name: PRIME-FIT underground
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d650e0c-1700-48af-a8ad-f500010d1101.jpg
-layout_spectrum: 0.4244556033018386
-typography_spectrum: 0.8350159641334067
 cta: {}
 analytics: {}
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#6B0C22'
-    - '#D9042B'
-    - '#F4CB89'
-    - '#588C8C'
-    - '#011C26'
-  brandStrength: 0.3454156365343324
-  lightness: 0.9044863649256675
-  saturation: 0.8138454910638826
-  rhythmicContrast: 0.7504382593497302
 purpose:
   - type: contact
     label: "\uD83D\uDCF1 Coach Rene"
