@@ -1,5 +1,13 @@
+name: PRIME-FIT underground
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d650e0c-1700-48af-a8ad-f500010d1101.jpg
 layout_spectrum: 0.4244556033018386
 typography_spectrum: 0.8350159641334067
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#6B0C22'
@@ -11,16 +19,6 @@ color:
   lightness: 0.9044863649256675
   saturation: 0.8138454910638826
   rhythmicContrast: 0.7504382593497302
-coverPrefs:
-  filter: false
-name: PRIME-FIT underground
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d650e0c-1700-48af-a8ad-f500010d1101.jpg
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
 purpose:
   - type: contact
     label: "\uD83D\uDCF1 Coach Rene"
@@ -36,9 +34,6 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: Deutsche NAC Magdeburg 2015
-    id: 303b6331-e508-43b6-8491-697fc35e60e9
-    type: content
   - name: "Ohne Mampf kein Kampf\uD83D\uDE02"
     id: 98f330b6-fc74-4c85-9681-33b4ef013718
     type: content
