@@ -1,5 +1,13 @@
+name: PRIME-FIT underground
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d650e0c-1700-48af-a8ad-f500010d1101.jpg
 layout_spectrum: 0.07147434762715925
 typography_spectrum: 0.5990855768014962
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#00261C'
@@ -11,20 +19,7 @@ color:
   lightness: 0.28618624528362835
   saturation: 0.24913162728411947
   rhythmicContrast: 0.9059370568764424
-coverPrefs:
-  filter: false
-name: PRIME-FIT underground
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d650e0c-1700-48af-a8ad-f500010d1101.jpg
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
 purpose:
-  - type: contact
-    label: "\uD83D\uDCF1 Coach Rene"
-    url: 'tel:+4915141268672'
   - type: contact
     label: Mail an Rene
     url: 'mailto:rbprivattraining@gmail.com'
