@@ -37,5 +37,8 @@ navigation:
   - name: "Ohne Mampf kein Kampf\uD83D\uDE02"
     id: 98f330b6-fc74-4c85-9681-33b4ef013718
     type: content
+  - name: 'Westdeutsche NAC 2015 '
+    id: ad613077-d219-4499-91d1-0af906f166a1
+    type: content
 content: []
 github: true
