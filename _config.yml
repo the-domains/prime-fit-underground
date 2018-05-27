@@ -43,5 +43,8 @@ navigation:
   - name: 'Outdoor Aktivität '
     id: fc493170-c62c-47bb-9f82-ec859ef26733
     type: content
+  - name: Supps für Ume
+    id: 905408d4-8044-49d9-8b39-c7aebb94c4e5
+    type: content
 content: []
 github: true
