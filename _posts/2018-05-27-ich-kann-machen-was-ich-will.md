@@ -1,14 +1,14 @@
 ---
 title: ''
-datePublished: '2018-05-28T08:55:14.252Z'
-dateModified: '2018-05-28T08:55:12.625Z'
+datePublished: '2018-05-28T08:55:58.882Z'
+dateModified: '2018-05-28T08:55:57.702Z'
 publisher: {}
 author: []
 inFeed: true
+hasPage: true
 description: ich kann machen was ich will
 via:
   name: 'Holmes Place Düsseldorf am Provinzial Platz '
-hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-28T08:53:42.642Z'
 sourcePath: _posts/2018-05-27-ich-kann-machen-was-ich-will.md
@@ -20,8 +20,6 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7236084-f636-441d-99f8-c51accd5f886.jpg)
 
 ich kann machen was ich will
-
----
 
 ---
 
