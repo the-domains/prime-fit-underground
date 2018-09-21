@@ -34,17 +34,11 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: "Ohne Mampf kein Kampf\uD83D\uDE02"
-    id: 98f330b6-fc74-4c85-9681-33b4ef013718
-    type: content
   - name: 'Westdeutsche NAC 2015 '
     id: ad613077-d219-4499-91d1-0af906f166a1
     type: content
   - name: 'Outdoor Aktivität '
     id: fc493170-c62c-47bb-9f82-ec859ef26733
-    type: content
-  - name: Supps für Ume
-    id: 905408d4-8044-49d9-8b39-c7aebb94c4e5
     type: content
 content: []
 github: true
